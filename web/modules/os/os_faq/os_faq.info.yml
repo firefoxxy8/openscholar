@@ -5,5 +5,6 @@ package: FAQ
 dependencies:
   - node
   - media
+  - views_accordion
 core: '8.x'
 project: 'os_faq'

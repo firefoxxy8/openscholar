@@ -46,6 +46,7 @@
         "drupal/metatag": "^1.2",
         "drupal/pathauto": "^1.0",
         "drupal/purl": "1.x-dev",
+        "drupal/views_accordion": "^1.1",
         "drupal/webform": "^5.0@beta",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^0.3.0",
